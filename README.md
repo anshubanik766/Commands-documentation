@@ -42,5 +42,8 @@ commands list of slate-bot written on JS which is a multipurpose discord bot
 | `gas` | Displays current live Ethereum network gas prices and transaction fee metrics | Crypto |
 | `anime` | Search MyAnimeList for anime information | Fun |
 | `blacktea` | Starts an endless Black Tea match that keeps generating new word puzzles until only one survivor remains! | Fun |
-
-
+| `book` | Shows information of a book from Goodreads | Fun |
+| `character` | Search MyAnimeList for character information | Fun |
+| `duckduckgo` | Search the privacy-focused DuckDuckGo search engine | Fun |
+| `game` | Returns information about the specified game title given | Fun |
+| `duckduckgo` | Search the privacy-focused DuckDuckGo search engine | Fun |
