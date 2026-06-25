@@ -20,4 +20,24 @@ commands list of slate-bot written on JS which is a multipurpose discord bot
 | `antiraid-whitelist` | Manages the exceptional user exclusion list for bypassing anti-raid perimeter triggers | Antiraid |
 | `antiraid-whitelist-view` | Displays a comprehensive readout of all user IDs permitted to bypass the active anti-raid firewall gates | Antiraid |
 | `automod` | Complete management dashboard for native Discord rules and AI text classification filtering. | Automod |
+| `autorole` | Manage automatic role assignment on member join. | Autorole |
+| `autorole add` | subcommand of autorole. | Autorole |
+| `autorole list` | subcommand of autorole. | Autorole |
+| `autorole remove` | subcommand of autorole. | Autorole |
+| `autorole reset` | subcommand of autorole. | Autorole |
+| `buttonrole` | Manage self-assignable roles using interactive buttons. | Autorole |
+| `buttonrole add` | Subcommand of buttonrole. | Autorole |
+| `buttonrole list` | Subcommand of buttonrole. | Autorole |
+| `buttonrole remove` | Subcommand of buttonrole. | Autorole |
+| `buttonrole removeall` | Subcommand of buttonrole. | Autorole |
+| `buttonrole send` | Subcommand of buttonrole. | Autorole |
+| `reactionrole` | Manage self-assignable roles using classic emoji reactions. | Autorole |
+| `reactionrole add` | Subcommand of reactionrole. | Autorole |
+| `reactionrole remove` | Subcommand of reactionrole. | Autorole |
+| `reactionrole removeall` | Subcommand of reactionrole. | Autorole |
+| `reactionrole list` | Subcommand of reactionrole. | Autorole |
+| `reactionrole restore` | Subcommand of reactionrole. | Autorole |
+| `reactionrole reset` | Subcommand of reactionrole. | Autorole |
+
+
 
