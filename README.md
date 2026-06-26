@@ -46,4 +46,44 @@ commands list of slate-bot written on JS which is a multipurpose discord bot
 | `character` | Search MyAnimeList for character information | Fun |
 | `duckduckgo` | Search the privacy-focused DuckDuckGo search engine | Fun |
 | `game` | Returns information about the specified game title given | Fun |
-| `duckduckgo` | Search the privacy-focused DuckDuckGo search engine | Fun |
+| `giphy` | Search Giphy for gif results | Fun |
+| `google` | Search the largest search engine on the internet | Fun |
+| `image` | Search Google for an image | Fun |
+| `lego` | Turn an image into a stylized LEGO brick mosaic layout | Fun |
+| `lyrics` | Gets lyrics for the specified song title | Fun |
+| `makegif` | Convert a short video file or link into a high-quality GIF | Fun |
+| `manga` | Search MyAnimeList for manga information | Fun |
+| `movie` | Returns information about the specified movie title given | Fun |
+| `movieexpand` | Returns more detailed information and production insights about a specified movie | Fun |
+| `ocr` | Detects and extracts text written inside an image | Fun |
+| `ocrtr` | Detects text inside an image and translates it into the specified language | Fun |
+| `quote` | Generates a stylized quote image from text or by replying to a message | Fun |
+| `steal` | View and grab the most recent custom emote used in the channel | Fun |
+| `tenor` | Search Tenor for gif results | Fun |
+| `tictactoe` | Play tic-tac-toe with somebody! | Fun |
+| `tone` | Analyze text attributes and emotional tone metrics using Google Perspective | Fun |
+| `translate` | Translates any language automatically into English | Fun |
+| `transparent` | Remove background from an image | Fun |
+| `tts` | Turns your text into an audio voice mail message using interactive voice profiles | Fun |
+| `ttschannel` | Speak in a voice chat with text-to-speech | Fun |
+| `tvshow` | Returns information about the specified TV show title given | Fun |
+| `giveawayage` | Sets or clears structural account age parameters required to enter an active giveaway | giveaways |
+| `giveawaycancel` | Aborts an active giveaway immediately without selecting or drawing any winners | giveaways |
+| `giveawaycolor` | Updates the aesthetic border color of an active giveaway embed panel | giveaways |
+| `giveawaydescription` | Updates or adds a custom text description/rules block to an active giveaway panel | giveaways |
+| `giveawayduration` | Updates or resets the remaining time duration of an active giveaway panel | giveaways |
+| `giveawayageedit` | Edits an ongoing giveaway's prize or extends its remaining duration | giveaways |
+| `giveawayagehost` | Updates the host mention/credit on an active giveaway embed panel | giveaways |
+| `giveawayageend` | Forces an ongoing active giveaway to end immediately and draws the winner(s) | giveaways |
+| `giveawayageimage` | Sets, updates, or removes an embedded preview image or banner on an active giveaway panel | giveaways |
+| `giveawayagelist` | Scans the text channel history to find and list all active, ongoing giveaways | giveaways |
+| `giveawayagemaxlevel` | Sets or clears structural maximum level progression parameters required to enter an active giveaway | giveaways |
+| `giveawayageminlevel` | Sets or clears structural minimum level progression parameters required to enter an active giveaway | giveaways |
+| `giveawayageprize` | Edits the prize title of an ongoing active giveaway panel | giveaways |
+| `giveawayagerequiredroles` | Establishes specific server role requirements necessary to qualify for an active giveaway | giveaways |
+| `giveawayagereroll` | Rerolls a concluded giveaway to draw a new random winner from the pool of participants | giveaways |
+| `giveawayagelist` | Scans the text channel history to find and list all active, ongoing giveaways | giveaways |
+| `giveawayagelist` | Scans the text channel history to find and list all active, ongoing giveaways | giveaways |
+| `giveawayagelist` | Scans the text channel history to find and list all active, ongoing giveaways | giveaways |
+| `giveawayagelist` | Scans the text channel history to find and list all active, ongoing giveaways | giveaways |
+| `giveawayagelist` | Scans the text channel history to find and list all active, ongoing giveaways | giveaways |
